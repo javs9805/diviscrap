@@ -57,7 +57,7 @@ const Home = () => {
               <Stack mt='6' spacing='3'>
                 <Heading size='md'>Cambios chaco</Heading>
                 <Text>
-                  Maxicambios inició sus actividades en el mercado de cambios del Paraguay el 16 de mayo de 2003, bajo la razón social de MAXICAMBIOS S.A.              
+                  Cambios Chaco S.A. ha sido autorizada por Resolución N° 13, Acta N° 72 del 24 de Mayo de 1.989, del Banco Central del Paraguay.              
                 </Text>
               </Stack>
             </CardBody>
