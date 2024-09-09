@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { Card, CardHeader, CardBody, CardFooter, useColorMode, useColorModeValue } from '@chakra-ui/react'
+import { Card, useColorModeValue } from '@chakra-ui/react'
 import { Heading } from '@chakra-ui/react'
 import { Grid, GridItem } from '@chakra-ui/react'
 import { Container } from '@chakra-ui/react'
@@ -7,8 +7,6 @@ import {
   Stat,
   StatLabel,
   StatNumber,
-  StatHelpText,
-  StatArrow,
   StatGroup,
 } from '@chakra-ui/react'
 import { Divider } from '@chakra-ui/react'
@@ -36,6 +34,7 @@ export default function Divisa(props) {
   }
   useEffect(() => {
     fetchDivisas()
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
 
