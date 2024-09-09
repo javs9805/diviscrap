@@ -1,0 +1,11494 @@
+{
+  "time": "25042024-194042",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-194215",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-211640",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-211641",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-211722",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-211724",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-211726",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-211751",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-211752",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-211757",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-211758",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-211759",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-211800",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-211810",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-211922",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-211957",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-211958",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-212000",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-212115",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-212243",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-212248",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-212254",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-212256",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-212311",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-212312",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-212321",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-224713",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-224715",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-224717",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-224719",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-232247",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-232411",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-232440",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-232510",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-232513",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-232514",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-232703",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-232710",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-232918",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "25042024-235524",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-002125",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-002126",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-002213",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-002213",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-002218",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-002219",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-002232",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-002232",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-002236",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-002236",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-002337",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-002337",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-002407",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-002407",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-002411",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-002412",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-002444",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-002445",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-002752",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-002752",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-002830",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-002831",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-002901",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-003159",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-003545",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-003546",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-003547",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-003607",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-003610",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-003610",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-003739",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-003740",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-003741",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-003750",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-003751",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-003752",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-003753",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-003754",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-003926",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-003926",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-004140",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-004140",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-004917",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-005105",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-005124",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-005158",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-005958",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-010955",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-011019",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-011145",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-011147",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-011155",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-011504",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-011515",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-011536",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-011550",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-011554",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-011600",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-011604",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-011620",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-011623",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-011640",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-011643",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-011653",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-011658",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-011706",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-011717",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-011722",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-011726",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-011735",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-011820",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-011839",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-011854",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-011856",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-011932",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-011942",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-011952",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-012145",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-012200",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-012247",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-012400",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-012407",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-012423",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-012433",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-012712",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-012715",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-012727",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-012740",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-012749",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-012752",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-012759",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-012905",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-012923",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-012939",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-013408",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-013414",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-013420",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-013425",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-013429",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-013441",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-013444",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-013445",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-013453",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-013506",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-013509",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-013530",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-013544",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-013545",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-013552",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-013555",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-014054",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-014703",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-014731",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-014748",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-014814",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-014928",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-014929",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-014945",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-014951",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-015017",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-015036",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-015045",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-015052",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-015054",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-015106",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-015134",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8130.0,
+      "venta": 8380.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-143501",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-231410",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-231942",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232219",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232220",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232237",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232237",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232302",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232303",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232309",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232310",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232318",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232319",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232357",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232357",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232402",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232403",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232418",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232418",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232527",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232527",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232529",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232600",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232600",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232601",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232625",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232626",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232627",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232629",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232633",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232634",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232715",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232715",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232722",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232723",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232740",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232804",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232852",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232855",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232901",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232917",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-232931",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-233049",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-233058",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-233158",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-233236",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-233236",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-233245",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-233248",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-233318",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-233320",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-233341",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-233343",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-233345",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-233353",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-233355",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-233403",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-233415",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-233434",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-233445",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-233447",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-233514",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-233533",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-233618",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-233629",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-233631",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-233651",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-233654",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-233656",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-233704",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-233714",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-234033",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "26042024-234034",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-000330",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-000409",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-000414",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-000440",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-000450",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-000500",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-000502",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-000506",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-000509",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-000511",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-000513",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-000516",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-000525",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-000535",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-000609",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-000650",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-000652",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-000707",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-000744",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-001003",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-001012",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-001017",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-001025",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-001128",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-001143",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-001152",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-001448",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-001542",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-001543",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-001550",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-001626",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-001634",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-001639",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-001647",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-001658",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-001738",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-001739",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-001753",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-001756",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-001836",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-001836",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-001838",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-001847",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-001926",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-001947",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-001950",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-002006",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-002010",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-002021",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-002034",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-002046",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-002051",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-002403",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-002426",
+  "currency": [
+    {
+      "casaCambio": "Maxicambios",
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "casaCambio": "Maxicambios",
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "casaCambio": "Maxicambios",
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "casaCambio": "Maxicambios",
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "casaCambio": "Maxicambios",
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "casaCambio": "Maxicambios",
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-002428",
+  "currency": [
+    {
+      "casaCambio": "Maxicambios",
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "casaCambio": "Maxicambios",
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "casaCambio": "Maxicambios",
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "casaCambio": "Maxicambios",
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "casaCambio": "Maxicambios",
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "casaCambio": "Maxicambios",
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-002530",
+  "currency": [
+    {
+      "casaCambio": "Maxicambios",
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "casaCambio": "Maxicambios",
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "casaCambio": "Maxicambios",
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "casaCambio": "Maxicambios",
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "casaCambio": "Maxicambios",
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "casaCambio": "Maxicambios",
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-002559",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-004700",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-004736",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-004736",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-004758",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-004758",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-004810",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-004811",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-004817",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-004817",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-004818",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-004824",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-013840",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-152408",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-160752",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-160842",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-161103",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-163124",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-163247",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-165549",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-170053",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-170121",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "27042024-170137",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.5,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "28042024-023548",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7250.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.0,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8100.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "28042024-154704",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7250.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.0,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8100.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "28042024-160255",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7250.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.0,
+      "venta": 8.0
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1370.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8100.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "30042024-135605",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7250.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.0,
+      "venta": 7.5
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1350.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8180.0,
+      "venta": 8420.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "30042024-140003",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7250.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.0,
+      "venta": 7.5
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1350.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8180.0,
+      "venta": 8420.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "30042024-140153",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7250.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.0,
+      "venta": 7.5
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1350.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8180.0,
+      "venta": 8420.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "30042024-140203",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7250.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.0,
+      "venta": 7.5
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1350.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8180.0,
+      "venta": 8420.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "30042024-140211",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7250.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 6.0,
+      "venta": 7.5
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1350.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8180.0,
+      "venta": 8420.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+},
+{
+  "time": "04052024-010210",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "D\u00d3LAR",
+      "compra": 7300.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "PESOAR",
+      "compra": 5.0,
+      "venta": 7.2
+    },
+    {
+      "nombre": "REAL",
+      "compra": 1350.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "PESOUY",
+      "compra": 160.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "EURO",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "YEN",
+      "compra": 35.0,
+      "venta": 55.0
+    }
+  ]
+}

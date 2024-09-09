@@ -1,0 +1,1 @@
+['\n\n\nDÓLAR\n\n7300\n7400\n', '\n\n\nPESOAR\n\n6.50\n8\n', '\n\n\nREAL\n\n1370\n1450\n', '\n\n\nPESOUY\n\n160\n250\n', '\n\n\nEURO\n\n8150\n8400\n', '\n\n\nYEN\n\n35\n55\n']

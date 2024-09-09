@@ -1,0 +1,6777 @@
+,
+{
+  "time": "27042024-165139",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7.31,
+      "venta": 7.37
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1.41,
+      "venta": 1.45
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.4,
+      "venta": 8.5
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8.1,
+      "venta": 8.37
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 150.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.5,
+      "venta": 3.0
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 360.0,
+      "venta": 460.0
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 400.0,
+      "venta": 1.0
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1.5,
+      "venta": 2.1
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4.0,
+      "venta": 5.55
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3.2,
+      "venta": 5.3
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 8.5,
+      "venta": 9.8
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6.0,
+      "venta": 8.5
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 50.0
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19.95
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1.25,
+      "venta": 2.0
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0
+    }
+  ]
+},
+{
+  "time": "27042024-165558",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7.31,
+      "venta": 7.37
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1.41,
+      "venta": 1.45
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.4,
+      "venta": 8.5
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8.1,
+      "venta": 8.37
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 150.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.5,
+      "venta": 3.0
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 360.0,
+      "venta": 460.0
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 400.0,
+      "venta": 1.0
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1.5,
+      "venta": 2.1
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4.0,
+      "venta": 5.55
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3.2,
+      "venta": 5.3
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 8.5,
+      "venta": 9.8
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6.0,
+      "venta": 8.5
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 50.0
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19.95
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1.25,
+      "venta": 2.0
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0
+    }
+  ]
+},
+{
+  "time": "27042024-165604",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7.31,
+      "venta": 7.37
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1.41,
+      "venta": 1.45
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.4,
+      "venta": 8.5
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8.1,
+      "venta": 8.37
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 150.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.5,
+      "venta": 3.0
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 360.0,
+      "venta": 460.0
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 400.0,
+      "venta": 1.0
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1.5,
+      "venta": 2.1
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4.0,
+      "venta": 5.55
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3.2,
+      "venta": 5.3
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 8.5,
+      "venta": 9.8
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6.0,
+      "venta": 8.5
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 50.0
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19.95
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1.25,
+      "venta": 2.0
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0
+    }
+  ]
+},
+{
+  "time": "27042024-165606",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7.31,
+      "venta": 7.37
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1.41,
+      "venta": 1.45
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.4,
+      "venta": 8.5
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8.1,
+      "venta": 8.37
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 150.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.5,
+      "venta": 3.0
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 360.0,
+      "venta": 460.0
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 400.0,
+      "venta": 1.0
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1.5,
+      "venta": 2.1
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4.0,
+      "venta": 5.55
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3.2,
+      "venta": 5.3
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 8.5,
+      "venta": 9.8
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6.0,
+      "venta": 8.5
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 50.0
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19.95
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1.25,
+      "venta": 2.0
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0
+    }
+  ]
+},
+{
+  "time": "27042024-165710",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7.31,
+      "venta": 7.37
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1.41,
+      "venta": 1.45
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.4,
+      "venta": 8.5
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8.1,
+      "venta": 8.37
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 150.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.5,
+      "venta": 3.0
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 360.0,
+      "venta": 460.0
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 400.0,
+      "venta": 1.0
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1.5,
+      "venta": 2.1
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4.0,
+      "venta": 5.55
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3.2,
+      "venta": 5.3
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 8.5,
+      "venta": 9.8
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6.0,
+      "venta": 8.5
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 50.0
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19.95
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1.25,
+      "venta": 2.0
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0
+    }
+  ]
+},
+{
+  "time": "27042024-165801",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7.31,
+      "venta": 7.37
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1.41,
+      "venta": 1.45
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.4,
+      "venta": 8.5
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8.1,
+      "venta": 8.37
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 150.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.5,
+      "venta": 3.0
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 360.0,
+      "venta": 460.0
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 400.0,
+      "venta": 1.0
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1.5,
+      "venta": 2.1
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4.0,
+      "venta": 5.55
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3.2,
+      "venta": 5.3
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 8.5,
+      "venta": 9.8
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6.0,
+      "venta": 8.5
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 50.0
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19.95
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1.25,
+      "venta": 2.0
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0
+    }
+  ]
+},
+{
+  "time": "27042024-165804",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7310.0,
+      "venta": 7370.0
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1410.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.4,
+      "venta": 8.5
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8100.0,
+      "venta": 8370.0
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 150.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.5,
+      "venta": 3.0
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 360.0,
+      "venta": 460.0
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 400.0,
+      "venta": 1000.0
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3200.0,
+      "venta": 5300.0
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 8500.0,
+      "venta": 9800.0
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6000.0,
+      "venta": 8500.0
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 50.0
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0
+    }
+  ]
+},
+{
+  "time": "27042024-165806",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7310.0,
+      "venta": 7370.0
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1410.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.4,
+      "venta": 8.5
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8100.0,
+      "venta": 8370.0
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 150.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.5,
+      "venta": 3.0
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 360.0,
+      "venta": 460.0
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 400.0,
+      "venta": 1000.0
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3200.0,
+      "venta": 5300.0
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 8500.0,
+      "venta": 9800.0
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6000.0,
+      "venta": 8500.0
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 50.0
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0
+    }
+  ]
+},
+{
+  "time": "27042024-165813",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7310.0,
+      "venta": 7370.0
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1410.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.4,
+      "venta": 8.5
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8100.0,
+      "venta": 8370.0
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 150.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.5,
+      "venta": 3.0
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 360.0,
+      "venta": 460.0
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 400.0,
+      "venta": 1000.0
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3200.0,
+      "venta": 5300.0
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 8500.0,
+      "venta": 9800.0
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6000.0,
+      "venta": 8500.0
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 50.0
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0
+    }
+  ]
+},
+{
+  "time": "27042024-165814",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7310.0,
+      "venta": 7370.0
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1410.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.4,
+      "venta": 8.5
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8100.0,
+      "venta": 8370.0
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 150.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.5,
+      "venta": 3.0
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 360.0,
+      "venta": 460.0
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 400.0,
+      "venta": 1000.0
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3200.0,
+      "venta": 5300.0
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 8500.0,
+      "venta": 9800.0
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6000.0,
+      "venta": 8500.0
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 50.0
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0
+    }
+  ]
+},
+{
+  "time": "27042024-165815",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7310.0,
+      "venta": 7370.0
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1410.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.4,
+      "venta": 8.5
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8100.0,
+      "venta": 8370.0
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 150.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.5,
+      "venta": 3.0
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 360.0,
+      "venta": 460.0
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 400.0,
+      "venta": 1000.0
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3200.0,
+      "venta": 5300.0
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 8500.0,
+      "venta": 9800.0
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6000.0,
+      "venta": 8500.0
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 50.0
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0
+    }
+  ]
+},
+{
+  "time": "27042024-165947",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7310.0,
+      "venta": 7370.0
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1410.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.4,
+      "venta": 8.5
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8100.0,
+      "venta": 8370.0
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 150.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.5,
+      "venta": 3.0
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 360.0,
+      "venta": 460.0
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 400.0,
+      "venta": 1000.0
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3200.0,
+      "venta": 5300.0
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 8500.0,
+      "venta": 9800.0
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6000.0,
+      "venta": 8500.0
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 50.0
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0
+    }
+  ]
+},
+{
+  "time": "27042024-170002",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7310.0,
+      "venta": 7370.0
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1410.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.4,
+      "venta": 8.5
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8100.0,
+      "venta": 8370.0
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 150.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.5,
+      "venta": 3.0
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 360.0,
+      "venta": 460.0
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 400.0,
+      "venta": 1000.0
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3200.0,
+      "venta": 5300.0
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 8500.0,
+      "venta": 9800.0
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6000.0,
+      "venta": 8500.0
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 50.0
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0
+    }
+  ]
+},
+{
+  "time": "27042024-170042",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7310.0,
+      "venta": 7370.0
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1410.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.4,
+      "venta": 8.5
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8100.0,
+      "venta": 8370.0
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 150.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.5,
+      "venta": 3.0
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 360.0,
+      "venta": 460.0
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 400.0,
+      "venta": 1000.0
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3200.0,
+      "venta": 5300.0
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 8500.0,
+      "venta": 9800.0
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6000.0,
+      "venta": 8500.0
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 50.0
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0
+    }
+  ]
+},
+{
+  "time": "27042024-170045",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7310.0,
+      "venta": 7370.0
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1410.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.4,
+      "venta": 8.5
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8100.0,
+      "venta": 8370.0
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 150.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.5,
+      "venta": 3.0
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 360.0,
+      "venta": 460.0
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 400.0,
+      "venta": 1000.0
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3200.0,
+      "venta": 5300.0
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 8500.0,
+      "venta": 9800.0
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6000.0,
+      "venta": 8500.0
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 50.0
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0
+    }
+  ]
+},
+{
+  "time": "27042024-170046",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7310.0,
+      "venta": 7370.0
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1410.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.4,
+      "venta": 8.5
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8100.0,
+      "venta": 8370.0
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 150.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.5,
+      "venta": 3.0
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 360.0,
+      "venta": 460.0
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 400.0,
+      "venta": 1000.0
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3200.0,
+      "venta": 5300.0
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 8500.0,
+      "venta": 9800.0
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6000.0,
+      "venta": 8500.0
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 50.0
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0
+    }
+  ]
+},
+{
+  "time": "27042024-170047",
+  "casaCambio": "Maxicambios",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7310.0,
+      "venta": 7370.0
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1410.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.4,
+      "venta": 8.5
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8100.0,
+      "venta": 8370.0
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 150.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.5,
+      "venta": 3.0
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 360.0,
+      "venta": 460.0
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 400.0,
+      "venta": 1000.0
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3200.0,
+      "venta": 5300.0
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 8500.0,
+      "venta": 9800.0
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6000.0,
+      "venta": 8500.0
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 50.0
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0
+    }
+  ]
+},
+{
+  "time": "27042024-170057",
+  "casaCambio": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7310.0,
+      "venta": 7370.0
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1410.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.4,
+      "venta": 8.5
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8100.0,
+      "venta": 8370.0
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 150.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.5,
+      "venta": 3.0
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 360.0,
+      "venta": 460.0
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 400.0,
+      "venta": 1000.0
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3200.0,
+      "venta": 5300.0
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 8500.0,
+      "venta": 9800.0
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6000.0,
+      "venta": 8500.0
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 50.0
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0
+    }
+  ]
+},
+{
+  "time": "27042024-170120",
+  "casaCambio": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7310.0,
+      "venta": 7370.0
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1410.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.4,
+      "venta": 8.5
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8100.0,
+      "venta": 8370.0
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 150.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.5,
+      "venta": 3.0
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 360.0,
+      "venta": 460.0
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 400.0,
+      "venta": 1000.0
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3200.0,
+      "venta": 5300.0
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 8500.0,
+      "venta": 9800.0
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6000.0,
+      "venta": 8500.0
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 50.0
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0
+    }
+  ]
+},
+{
+  "time": "27042024-170126",
+  "casaCambio": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7310.0,
+      "venta": 7370.0
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1410.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.4,
+      "venta": 8.5
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8100.0,
+      "venta": 8370.0
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 150.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.5,
+      "venta": 3.0
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 360.0,
+      "venta": 460.0
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 400.0,
+      "venta": 1000.0
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3200.0,
+      "venta": 5300.0
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 8500.0,
+      "venta": 9800.0
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6000.0,
+      "venta": 8500.0
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 50.0
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0
+    }
+  ]
+},
+{
+  "time": "27042024-170133",
+  "casaCambio": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7310.0,
+      "venta": 7370.0
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1410.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.4,
+      "venta": 8.5
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8100.0,
+      "venta": 8370.0
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 150.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.5,
+      "venta": 3.0
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 360.0,
+      "venta": 460.0
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 400.0,
+      "venta": 1000.0
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3200.0,
+      "venta": 5300.0
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 8500.0,
+      "venta": 9800.0
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6000.0,
+      "venta": 8500.0
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 50.0
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0
+    }
+  ]
+},
+{
+  "time": "28042024-023514",
+  "casaCambio": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7310.0,
+      "venta": 7370.0
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1410.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.4,
+      "venta": 8.5
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8100.0,
+      "venta": 8370.0
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 150.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.5,
+      "venta": 3.0
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 360.0,
+      "venta": 460.0
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 400.0,
+      "venta": 1000.0
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3200.0,
+      "venta": 5300.0
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 8500.0,
+      "venta": 9800.0
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6000.0,
+      "venta": 8500.0
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 50.0
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0
+    }
+  ]
+},
+{
+  "time": "28042024-023541",
+  "casaCambio": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7310.0,
+      "venta": 7370.0
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1410.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.4,
+      "venta": 8.5
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8100.0,
+      "venta": 8370.0
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 150.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.5,
+      "venta": 3.0
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 360.0,
+      "venta": 460.0
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 400.0,
+      "venta": 1000.0
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3200.0,
+      "venta": 5300.0
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 8500.0,
+      "venta": 9800.0
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6000.0,
+      "venta": 8500.0
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 50.0
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0
+    }
+  ]
+},
+{
+  "time": "28042024-154620",
+  "casaCambio": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7310.0,
+      "venta": 7370.0
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1410.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.4,
+      "venta": 8.5
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8100.0,
+      "venta": 8370.0
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 150.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.5,
+      "venta": 3.0
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 360.0,
+      "venta": 460.0
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 400.0,
+      "venta": 1000.0
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3200.0,
+      "venta": 5300.0
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 8500.0,
+      "venta": 9800.0
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6000.0,
+      "venta": 8500.0
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 50.0
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0
+    }
+  ]
+},
+{
+  "time": "28042024-155319",
+  "casaCambio": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7310.0,
+      "venta": 7370.0
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1410.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.4,
+      "venta": 8.5
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8100.0,
+      "venta": 8370.0
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 150.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.5,
+      "venta": 3.0
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 360.0,
+      "venta": 460.0
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 400.0,
+      "venta": 1000.0
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3200.0,
+      "venta": 5300.0
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 8500.0,
+      "venta": 9800.0
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6000.0,
+      "venta": 8500.0
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 50.0
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0
+    }
+  ]
+},
+{
+  "time": "28042024-160205",
+  "casaCambio": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7310.0,
+      "venta": 7370.0
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1410.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.4,
+      "venta": 8.5
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8100.0,
+      "venta": 8370.0
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 150.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.5,
+      "venta": 3.0
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 360.0,
+      "venta": 460.0
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 400.0,
+      "venta": 1000.0
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3200.0,
+      "venta": 5300.0
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 8500.0,
+      "venta": 9800.0
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6000.0,
+      "venta": 8500.0
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 50.0
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0
+    }
+  ]
+},
+{
+  "time": "29042024-150622",
+  "casaCambio": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7330.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1400.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.0,
+      "venta": 8.0
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8150.0,
+      "venta": 8370.0
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 150.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.5,
+      "venta": 3.0
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 360.0,
+      "venta": 460.0
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 400.0,
+      "venta": 1000.0
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3200.0,
+      "venta": 5300.0
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 8500.0,
+      "venta": 9800.0
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6000.0,
+      "venta": 8500.0
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 50.0
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0
+    }
+  ]
+},
+{
+  "time": "30042024-135552",
+  "casaCambio": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7330.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1380.0,
+      "venta": 1440.0
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.0,
+      "venta": 8.0
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 150.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.5,
+      "venta": 3.0
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 360.0,
+      "venta": 460.0
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 400.0,
+      "venta": 1000.0
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3200.0,
+      "venta": 5300.0
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 8500.0,
+      "venta": 9800.0
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6000.0,
+      "venta": 8500.0
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 50.0
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0
+    }
+  ]
+},
+{
+  "time": "30042024-135923",
+  "casaCambio": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7330.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1380.0,
+      "venta": 1440.0
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.0,
+      "venta": 8.0
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 150.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.5,
+      "venta": 3.0
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 360.0,
+      "venta": 460.0
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 400.0,
+      "venta": 1000.0
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3200.0,
+      "venta": 5300.0
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 8500.0,
+      "venta": 9800.0
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6000.0,
+      "venta": 8500.0
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 50.0
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0
+    }
+  ]
+},
+{
+  "time": "30042024-140002",
+  "casaCambio": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7330.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1380.0,
+      "venta": 1440.0
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.0,
+      "venta": 8.0
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 150.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.5,
+      "venta": 3.0
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 360.0,
+      "venta": 460.0
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 400.0,
+      "venta": 1000.0
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3200.0,
+      "venta": 5300.0
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 8500.0,
+      "venta": 9800.0
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6000.0,
+      "venta": 8500.0
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 50.0
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0
+    }
+  ]
+},
+{
+  "time": "30042024-140006",
+  "casaCambio": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7330.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1380.0,
+      "venta": 1440.0
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.0,
+      "venta": 8.0
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 150.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.5,
+      "venta": 3.0
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 360.0,
+      "venta": 460.0
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 400.0,
+      "venta": 1000.0
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3200.0,
+      "venta": 5300.0
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 8500.0,
+      "venta": 9800.0
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6000.0,
+      "venta": 8500.0
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 50.0
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0
+    }
+  ]
+},
+{
+  "time": "30042024-140153",
+  "casaCambio": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7330.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1380.0,
+      "venta": 1440.0
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.0,
+      "venta": 8.0
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 150.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.5,
+      "venta": 3.0
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 360.0,
+      "venta": 460.0
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 400.0,
+      "venta": 1000.0
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3200.0,
+      "venta": 5300.0
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 8500.0,
+      "venta": 9800.0
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6000.0,
+      "venta": 8500.0
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 50.0
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0
+    }
+  ]
+},
+{
+  "time": "30042024-140200",
+  "casaCambio": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7330.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1380.0,
+      "venta": 1440.0
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.0,
+      "venta": 8.0
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 150.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.5,
+      "venta": 3.0
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 360.0,
+      "venta": 460.0
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 400.0,
+      "venta": 1000.0
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3200.0,
+      "venta": 5300.0
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 8500.0,
+      "venta": 9800.0
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6000.0,
+      "venta": 8500.0
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 50.0
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0
+    }
+  ]
+},
+{
+  "time": "30042024-140205",
+  "casaCambio": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7330.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1380.0,
+      "venta": 1440.0
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.0,
+      "venta": 8.0
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 150.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.5,
+      "venta": 3.0
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 360.0,
+      "venta": 460.0
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 400.0,
+      "venta": 1000.0
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3200.0,
+      "venta": 5300.0
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 8500.0,
+      "venta": 9800.0
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6000.0,
+      "venta": 8500.0
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 50.0
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0
+    }
+  ]
+},
+{
+  "time": "30042024-140218",
+  "casaCambio": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7330.0,
+      "venta": 7400.0
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1380.0,
+      "venta": 1440.0
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.0,
+      "venta": 8.0
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8150.0,
+      "venta": 8400.0
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 150.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.5,
+      "venta": 3.0
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 360.0,
+      "venta": 460.0
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 400.0,
+      "venta": 1000.0
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3200.0,
+      "venta": 5300.0
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 8500.0,
+      "venta": 9800.0
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6000.0,
+      "venta": 8500.0
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 50.0
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0
+    }
+  ]
+},
+{
+  "time": "04052024-010151",
+  "casaCambio": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1400.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.4,
+      "venta": 8.0
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8180.0,
+      "venta": 8450.0
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 150.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.5,
+      "venta": 3.0
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 360.0,
+      "venta": 460.0
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 400.0,
+      "venta": 1000.0
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3200.0,
+      "venta": 5300.0
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 8500.0,
+      "venta": 9800.0
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6000.0,
+      "venta": 8500.0
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 50.0
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0
+    }
+  ]
+},
+{
+  "time": "04052024-010204",
+  "casaCambio": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7300.0,
+      "venta": 7380.0
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1400.0,
+      "venta": 1450.0
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.4,
+      "venta": 8.0
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8180.0,
+      "venta": 8450.0
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 150.0,
+      "venta": 250.0
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.5,
+      "venta": 3.0
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 360.0,
+      "venta": 460.0
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 400.0,
+      "venta": 1000.0
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3200.0,
+      "venta": 5300.0
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 8500.0,
+      "venta": 9800.0
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6000.0,
+      "venta": 8500.0
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 50.0
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0
+    }
+  ]
+},
+{
+  "time": "07092024-020134",
+  "casaCambio": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7620.0,
+      "venta": 7680.0,
+      "timestamp": "07092024-020134"
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1350.0,
+      "venta": 1390.0,
+      "timestamp": "07092024-020134"
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 5.4,
+      "venta": 6.6,
+      "timestamp": "07092024-020134"
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8450.0,
+      "venta": 8800.0,
+      "timestamp": "07092024-020134"
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0,
+      "timestamp": "07092024-020134"
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 140.0,
+      "venta": 240.0,
+      "timestamp": "07092024-020134"
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.8,
+      "venta": 3.0,
+      "timestamp": "07092024-020134"
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 300.0,
+      "venta": 450.0,
+      "timestamp": "07092024-020134"
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 180.0,
+      "venta": 1000.0,
+      "timestamp": "07092024-020134"
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0,
+      "timestamp": "07092024-020134"
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0,
+      "timestamp": "07092024-020134"
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3100.0,
+      "venta": 5100.0,
+      "timestamp": "07092024-020134"
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0,
+      "timestamp": "07092024-020134"
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0,
+      "timestamp": "07092024-020134"
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0,
+      "timestamp": "07092024-020134"
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 9200.0,
+      "venta": 10600.0,
+      "timestamp": "07092024-020134"
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6550.0,
+      "venta": 8650.0,
+      "timestamp": "07092024-020134"
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 55.0,
+      "timestamp": "07092024-020134"
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0,
+      "timestamp": "07092024-020134"
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0,
+      "timestamp": "07092024-020134"
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0,
+      "timestamp": "07092024-020134"
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0,
+      "timestamp": "07092024-020134"
+    }
+  ]
+},
+{
+  "time": "07092024-020203",
+  "casaCambio": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7620.0,
+      "venta": 7680.0,
+      "timestamp": "07092024-020203"
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1350.0,
+      "venta": 1390.0,
+      "timestamp": "07092024-020203"
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 5.4,
+      "venta": 6.6,
+      "timestamp": "07092024-020203"
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8450.0,
+      "venta": 8800.0,
+      "timestamp": "07092024-020203"
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0,
+      "timestamp": "07092024-020203"
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 140.0,
+      "venta": 240.0,
+      "timestamp": "07092024-020203"
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.8,
+      "venta": 3.0,
+      "timestamp": "07092024-020203"
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 300.0,
+      "venta": 450.0,
+      "timestamp": "07092024-020203"
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 180.0,
+      "venta": 1000.0,
+      "timestamp": "07092024-020203"
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0,
+      "timestamp": "07092024-020203"
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0,
+      "timestamp": "07092024-020203"
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3100.0,
+      "venta": 5100.0,
+      "timestamp": "07092024-020203"
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0,
+      "timestamp": "07092024-020203"
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0,
+      "timestamp": "07092024-020203"
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0,
+      "timestamp": "07092024-020203"
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 9200.0,
+      "venta": 10600.0,
+      "timestamp": "07092024-020203"
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6550.0,
+      "venta": 8650.0,
+      "timestamp": "07092024-020203"
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 55.0,
+      "timestamp": "07092024-020203"
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0,
+      "timestamp": "07092024-020203"
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0,
+      "timestamp": "07092024-020203"
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0,
+      "timestamp": "07092024-020203"
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0,
+      "timestamp": "07092024-020203"
+    }
+  ]
+},
+{
+  "time": "07092024-020955",
+  "casaCambio": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7620.0,
+      "venta": 7680.0,
+      "timestamp": "07092024-020955"
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1350.0,
+      "venta": 1390.0,
+      "timestamp": "07092024-020955"
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 5.4,
+      "venta": 6.6,
+      "timestamp": "07092024-020955"
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8450.0,
+      "venta": 8800.0,
+      "timestamp": "07092024-020955"
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0,
+      "timestamp": "07092024-020955"
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 140.0,
+      "venta": 240.0,
+      "timestamp": "07092024-020955"
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.8,
+      "venta": 3.0,
+      "timestamp": "07092024-020955"
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 300.0,
+      "venta": 450.0,
+      "timestamp": "07092024-020955"
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 180.0,
+      "venta": 1000.0,
+      "timestamp": "07092024-020955"
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0,
+      "timestamp": "07092024-020955"
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0,
+      "timestamp": "07092024-020955"
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3100.0,
+      "venta": 5100.0,
+      "timestamp": "07092024-020955"
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0,
+      "timestamp": "07092024-020955"
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0,
+      "timestamp": "07092024-020955"
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0,
+      "timestamp": "07092024-020955"
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 9200.0,
+      "venta": 10600.0,
+      "timestamp": "07092024-020955"
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6550.0,
+      "venta": 8650.0,
+      "timestamp": "07092024-020955"
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 55.0,
+      "timestamp": "07092024-020955"
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0,
+      "timestamp": "07092024-020955"
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0,
+      "timestamp": "07092024-020955"
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0,
+      "timestamp": "07092024-020955"
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0,
+      "timestamp": "07092024-020955"
+    }
+  ]
+},
+{
+  "time": "07092024-021021",
+  "casaCambio": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7620.0,
+      "venta": 7680.0,
+      "timestamp": "07092024-021021"
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1350.0,
+      "venta": 1390.0,
+      "timestamp": "07092024-021021"
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 5.4,
+      "venta": 6.6,
+      "timestamp": "07092024-021021"
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8450.0,
+      "venta": 8800.0,
+      "timestamp": "07092024-021021"
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0,
+      "timestamp": "07092024-021021"
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 140.0,
+      "venta": 240.0,
+      "timestamp": "07092024-021021"
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.8,
+      "venta": 3.0,
+      "timestamp": "07092024-021021"
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 300.0,
+      "venta": 450.0,
+      "timestamp": "07092024-021021"
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 180.0,
+      "venta": 1000.0,
+      "timestamp": "07092024-021021"
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0,
+      "timestamp": "07092024-021021"
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0,
+      "timestamp": "07092024-021021"
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3100.0,
+      "venta": 5100.0,
+      "timestamp": "07092024-021021"
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0,
+      "timestamp": "07092024-021021"
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0,
+      "timestamp": "07092024-021021"
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0,
+      "timestamp": "07092024-021021"
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 9200.0,
+      "venta": 10600.0,
+      "timestamp": "07092024-021021"
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6550.0,
+      "venta": 8650.0,
+      "timestamp": "07092024-021021"
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 55.0,
+      "timestamp": "07092024-021021"
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0,
+      "timestamp": "07092024-021021"
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0,
+      "timestamp": "07092024-021021"
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0,
+      "timestamp": "07092024-021021"
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0,
+      "timestamp": "07092024-021021"
+    }
+  ]
+},
+{
+  "time": "07092024-021024",
+  "casaCambio": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7620.0,
+      "venta": 7680.0,
+      "timestamp": "07092024-021024"
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1350.0,
+      "venta": 1390.0,
+      "timestamp": "07092024-021024"
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 5.4,
+      "venta": 6.6,
+      "timestamp": "07092024-021024"
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8450.0,
+      "venta": 8800.0,
+      "timestamp": "07092024-021024"
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0,
+      "timestamp": "07092024-021024"
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 140.0,
+      "venta": 240.0,
+      "timestamp": "07092024-021024"
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.8,
+      "venta": 3.0,
+      "timestamp": "07092024-021024"
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 300.0,
+      "venta": 450.0,
+      "timestamp": "07092024-021024"
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 180.0,
+      "venta": 1000.0,
+      "timestamp": "07092024-021024"
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0,
+      "timestamp": "07092024-021024"
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0,
+      "timestamp": "07092024-021024"
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3100.0,
+      "venta": 5100.0,
+      "timestamp": "07092024-021024"
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0,
+      "timestamp": "07092024-021024"
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0,
+      "timestamp": "07092024-021024"
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0,
+      "timestamp": "07092024-021024"
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 9200.0,
+      "venta": 10600.0,
+      "timestamp": "07092024-021024"
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6550.0,
+      "venta": 8650.0,
+      "timestamp": "07092024-021024"
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 55.0,
+      "timestamp": "07092024-021024"
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0,
+      "timestamp": "07092024-021024"
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0,
+      "timestamp": "07092024-021024"
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0,
+      "timestamp": "07092024-021024"
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0,
+      "timestamp": "07092024-021024"
+    }
+  ]
+},
+{
+  "time": "07092024-021136",
+  "casaCambio": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7620.0,
+      "venta": 7680.0,
+      "timestamp": "07092024-021136"
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1350.0,
+      "venta": 1390.0,
+      "timestamp": "07092024-021136"
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 5.4,
+      "venta": 6.6,
+      "timestamp": "07092024-021136"
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8450.0,
+      "venta": 8800.0,
+      "timestamp": "07092024-021136"
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0,
+      "timestamp": "07092024-021136"
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 140.0,
+      "venta": 240.0,
+      "timestamp": "07092024-021136"
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.8,
+      "venta": 3.0,
+      "timestamp": "07092024-021136"
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 300.0,
+      "venta": 450.0,
+      "timestamp": "07092024-021136"
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 180.0,
+      "venta": 1000.0,
+      "timestamp": "07092024-021136"
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0,
+      "timestamp": "07092024-021136"
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0,
+      "timestamp": "07092024-021136"
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3100.0,
+      "venta": 5100.0,
+      "timestamp": "07092024-021136"
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0,
+      "timestamp": "07092024-021136"
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0,
+      "timestamp": "07092024-021136"
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0,
+      "timestamp": "07092024-021136"
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 9200.0,
+      "venta": 10600.0,
+      "timestamp": "07092024-021136"
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6550.0,
+      "venta": 8650.0,
+      "timestamp": "07092024-021136"
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 55.0,
+      "timestamp": "07092024-021136"
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0,
+      "timestamp": "07092024-021136"
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0,
+      "timestamp": "07092024-021136"
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0,
+      "timestamp": "07092024-021136"
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0,
+      "timestamp": "07092024-021136"
+    }
+  ]
+},
+{
+  "time": "07092024-021215",
+  "casaCambio": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7620.0,
+      "venta": 7680.0,
+      "timestamp": "07092024-021215"
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1350.0,
+      "venta": 1390.0,
+      "timestamp": "07092024-021215"
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 5.4,
+      "venta": 6.6,
+      "timestamp": "07092024-021215"
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8450.0,
+      "venta": 8800.0,
+      "timestamp": "07092024-021215"
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0,
+      "timestamp": "07092024-021215"
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 140.0,
+      "venta": 240.0,
+      "timestamp": "07092024-021215"
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.8,
+      "venta": 3.0,
+      "timestamp": "07092024-021215"
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 300.0,
+      "venta": 450.0,
+      "timestamp": "07092024-021215"
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 180.0,
+      "venta": 1000.0,
+      "timestamp": "07092024-021215"
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0,
+      "timestamp": "07092024-021215"
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0,
+      "timestamp": "07092024-021215"
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3100.0,
+      "venta": 5100.0,
+      "timestamp": "07092024-021215"
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0,
+      "timestamp": "07092024-021215"
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0,
+      "timestamp": "07092024-021215"
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0,
+      "timestamp": "07092024-021215"
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 9200.0,
+      "venta": 10600.0,
+      "timestamp": "07092024-021215"
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6550.0,
+      "venta": 8650.0,
+      "timestamp": "07092024-021215"
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 55.0,
+      "timestamp": "07092024-021215"
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0,
+      "timestamp": "07092024-021215"
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0,
+      "timestamp": "07092024-021215"
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0,
+      "timestamp": "07092024-021215"
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0,
+      "timestamp": "07092024-021215"
+    }
+  ]
+},
+{
+  "time": "07092024-021230",
+  "casaCambio": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7620.0,
+      "venta": 7680.0,
+      "timestamp": "07092024-021230"
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1350.0,
+      "venta": 1390.0,
+      "timestamp": "07092024-021230"
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 5.4,
+      "venta": 6.6,
+      "timestamp": "07092024-021230"
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8450.0,
+      "venta": 8800.0,
+      "timestamp": "07092024-021230"
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0,
+      "timestamp": "07092024-021230"
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 140.0,
+      "venta": 240.0,
+      "timestamp": "07092024-021230"
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.8,
+      "venta": 3.0,
+      "timestamp": "07092024-021230"
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 300.0,
+      "venta": 450.0,
+      "timestamp": "07092024-021230"
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 180.0,
+      "venta": 1000.0,
+      "timestamp": "07092024-021230"
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0,
+      "timestamp": "07092024-021230"
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0,
+      "timestamp": "07092024-021230"
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3100.0,
+      "venta": 5100.0,
+      "timestamp": "07092024-021230"
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0,
+      "timestamp": "07092024-021230"
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0,
+      "timestamp": "07092024-021230"
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0,
+      "timestamp": "07092024-021230"
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 9200.0,
+      "venta": 10600.0,
+      "timestamp": "07092024-021230"
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6550.0,
+      "venta": 8650.0,
+      "timestamp": "07092024-021230"
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 55.0,
+      "timestamp": "07092024-021230"
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0,
+      "timestamp": "07092024-021230"
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0,
+      "timestamp": "07092024-021230"
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0,
+      "timestamp": "07092024-021230"
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0,
+      "timestamp": "07092024-021230"
+    }
+  ]
+},
+{
+  "time": "07092024-021817",
+  "name": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7620.0,
+      "venta": 7680.0,
+      "timestamp": "07092024-021817"
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1350.0,
+      "venta": 1390.0,
+      "timestamp": "07092024-021817"
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 5.4,
+      "venta": 6.6,
+      "timestamp": "07092024-021817"
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8450.0,
+      "venta": 8800.0,
+      "timestamp": "07092024-021817"
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0,
+      "timestamp": "07092024-021817"
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 140.0,
+      "venta": 240.0,
+      "timestamp": "07092024-021817"
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.8,
+      "venta": 3.0,
+      "timestamp": "07092024-021817"
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 300.0,
+      "venta": 450.0,
+      "timestamp": "07092024-021817"
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 180.0,
+      "venta": 1000.0,
+      "timestamp": "07092024-021817"
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0,
+      "timestamp": "07092024-021817"
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0,
+      "timestamp": "07092024-021817"
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3100.0,
+      "venta": 5100.0,
+      "timestamp": "07092024-021817"
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0,
+      "timestamp": "07092024-021817"
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0,
+      "timestamp": "07092024-021817"
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0,
+      "timestamp": "07092024-021817"
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 9200.0,
+      "venta": 10600.0,
+      "timestamp": "07092024-021817"
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6550.0,
+      "venta": 8650.0,
+      "timestamp": "07092024-021817"
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 55.0,
+      "timestamp": "07092024-021817"
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0,
+      "timestamp": "07092024-021817"
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0,
+      "timestamp": "07092024-021817"
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0,
+      "timestamp": "07092024-021817"
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0,
+      "timestamp": "07092024-021817"
+    }
+  ]
+},
+{
+  "time": "07092024-180421",
+  "name": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7620.0,
+      "venta": 7680.0,
+      "timestamp": "07092024-180421"
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1350.0,
+      "venta": 1390.0,
+      "timestamp": "07092024-180421"
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 5.4,
+      "venta": 6.6,
+      "timestamp": "07092024-180421"
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8400.0,
+      "venta": 8800.0,
+      "timestamp": "07092024-180421"
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0,
+      "timestamp": "07092024-180421"
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 140.0,
+      "venta": 240.0,
+      "timestamp": "07092024-180421"
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.8,
+      "venta": 3.0,
+      "timestamp": "07092024-180421"
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 300.0,
+      "venta": 450.0,
+      "timestamp": "07092024-180421"
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 180.0,
+      "venta": 1000.0,
+      "timestamp": "07092024-180421"
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0,
+      "timestamp": "07092024-180421"
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0,
+      "timestamp": "07092024-180421"
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3100.0,
+      "venta": 5100.0,
+      "timestamp": "07092024-180421"
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0,
+      "timestamp": "07092024-180421"
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0,
+      "timestamp": "07092024-180421"
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0,
+      "timestamp": "07092024-180421"
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 9200.0,
+      "venta": 10600.0,
+      "timestamp": "07092024-180421"
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6550.0,
+      "venta": 8650.0,
+      "timestamp": "07092024-180421"
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 55.0,
+      "timestamp": "07092024-180421"
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0,
+      "timestamp": "07092024-180421"
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0,
+      "timestamp": "07092024-180421"
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0,
+      "timestamp": "07092024-180421"
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0,
+      "timestamp": "07092024-180421"
+    }
+  ]
+},
+{
+  "time": "07092024-181002",
+  "name": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7620.0,
+      "venta": 7680.0,
+      "timestamp": "07092024-181002"
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1350.0,
+      "venta": 1390.0,
+      "timestamp": "07092024-181002"
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 5.4,
+      "venta": 6.6,
+      "timestamp": "07092024-181002"
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8400.0,
+      "venta": 8800.0,
+      "timestamp": "07092024-181002"
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0,
+      "timestamp": "07092024-181002"
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 140.0,
+      "venta": 240.0,
+      "timestamp": "07092024-181002"
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.8,
+      "venta": 3.0,
+      "timestamp": "07092024-181002"
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 300.0,
+      "venta": 450.0,
+      "timestamp": "07092024-181002"
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 180.0,
+      "venta": 1000.0,
+      "timestamp": "07092024-181002"
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0,
+      "timestamp": "07092024-181002"
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0,
+      "timestamp": "07092024-181002"
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3100.0,
+      "venta": 5100.0,
+      "timestamp": "07092024-181002"
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0,
+      "timestamp": "07092024-181002"
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0,
+      "timestamp": "07092024-181002"
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0,
+      "timestamp": "07092024-181002"
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 9200.0,
+      "venta": 10600.0,
+      "timestamp": "07092024-181002"
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6550.0,
+      "venta": 8650.0,
+      "timestamp": "07092024-181002"
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 55.0,
+      "timestamp": "07092024-181002"
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0,
+      "timestamp": "07092024-181002"
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0,
+      "timestamp": "07092024-181002"
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0,
+      "timestamp": "07092024-181002"
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0,
+      "timestamp": "07092024-181002"
+    }
+  ]
+},
+{
+  "time": "07092024-181057",
+  "name": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7620.0,
+      "venta": 7680.0,
+      "timestamp": "07092024-181057"
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1350.0,
+      "venta": 1390.0,
+      "timestamp": "07092024-181057"
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 5.4,
+      "venta": 6.6,
+      "timestamp": "07092024-181057"
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8400.0,
+      "venta": 8800.0,
+      "timestamp": "07092024-181057"
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0,
+      "timestamp": "07092024-181057"
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 140.0,
+      "venta": 240.0,
+      "timestamp": "07092024-181057"
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.8,
+      "venta": 3.0,
+      "timestamp": "07092024-181057"
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 300.0,
+      "venta": 450.0,
+      "timestamp": "07092024-181057"
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 180.0,
+      "venta": 1000.0,
+      "timestamp": "07092024-181057"
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0,
+      "timestamp": "07092024-181057"
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0,
+      "timestamp": "07092024-181057"
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3100.0,
+      "venta": 5100.0,
+      "timestamp": "07092024-181057"
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0,
+      "timestamp": "07092024-181057"
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0,
+      "timestamp": "07092024-181057"
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0,
+      "timestamp": "07092024-181057"
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 9200.0,
+      "venta": 10600.0,
+      "timestamp": "07092024-181057"
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6550.0,
+      "venta": 8650.0,
+      "timestamp": "07092024-181057"
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 55.0,
+      "timestamp": "07092024-181057"
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0,
+      "timestamp": "07092024-181057"
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0,
+      "timestamp": "07092024-181057"
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0,
+      "timestamp": "07092024-181057"
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0,
+      "timestamp": "07092024-181057"
+    }
+  ]
+},
+{
+  "time": "08092024-192934",
+  "name": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7620.0,
+      "venta": 7680.0,
+      "timestamp": "08092024-192934"
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1350.0,
+      "venta": 1390.0,
+      "timestamp": "08092024-192934"
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 5.4,
+      "venta": 6.6,
+      "timestamp": "08092024-192934"
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8400.0,
+      "venta": 8800.0,
+      "timestamp": "08092024-192934"
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0,
+      "timestamp": "08092024-192934"
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 140.0,
+      "venta": 240.0,
+      "timestamp": "08092024-192934"
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.8,
+      "venta": 3.0,
+      "timestamp": "08092024-192934"
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 300.0,
+      "venta": 450.0,
+      "timestamp": "08092024-192934"
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 180.0,
+      "venta": 1000.0,
+      "timestamp": "08092024-192934"
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0,
+      "timestamp": "08092024-192934"
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0,
+      "timestamp": "08092024-192934"
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3100.0,
+      "venta": 5100.0,
+      "timestamp": "08092024-192934"
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0,
+      "timestamp": "08092024-192934"
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0,
+      "timestamp": "08092024-192934"
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0,
+      "timestamp": "08092024-192934"
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 9200.0,
+      "venta": 10600.0,
+      "timestamp": "08092024-192934"
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6550.0,
+      "venta": 8650.0,
+      "timestamp": "08092024-192934"
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 55.0,
+      "timestamp": "08092024-192934"
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0,
+      "timestamp": "08092024-192934"
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0,
+      "timestamp": "08092024-192934"
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0,
+      "timestamp": "08092024-192934"
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0,
+      "timestamp": "08092024-192934"
+    }
+  ]
+},
+{
+  "time": "08092024-203209",
+  "name": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7620.0,
+      "venta": 7680.0,
+      "timestamp": "08092024-203209"
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1350.0,
+      "venta": 1390.0,
+      "timestamp": "08092024-203209"
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 5.4,
+      "venta": 6.6,
+      "timestamp": "08092024-203209"
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8400.0,
+      "venta": 8800.0,
+      "timestamp": "08092024-203209"
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0,
+      "timestamp": "08092024-203209"
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 140.0,
+      "venta": 240.0,
+      "timestamp": "08092024-203209"
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.8,
+      "venta": 3.0,
+      "timestamp": "08092024-203209"
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 300.0,
+      "venta": 450.0,
+      "timestamp": "08092024-203209"
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 180.0,
+      "venta": 1000.0,
+      "timestamp": "08092024-203209"
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0,
+      "timestamp": "08092024-203209"
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0,
+      "timestamp": "08092024-203209"
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3100.0,
+      "venta": 5100.0,
+      "timestamp": "08092024-203209"
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0,
+      "timestamp": "08092024-203209"
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0,
+      "timestamp": "08092024-203209"
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0,
+      "timestamp": "08092024-203209"
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 9200.0,
+      "venta": 10600.0,
+      "timestamp": "08092024-203209"
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6550.0,
+      "venta": 8650.0,
+      "timestamp": "08092024-203209"
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 55.0,
+      "timestamp": "08092024-203209"
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0,
+      "timestamp": "08092024-203209"
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0,
+      "timestamp": "08092024-203209"
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0,
+      "timestamp": "08092024-203209"
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0,
+      "timestamp": "08092024-203209"
+    }
+  ]
+},
+{
+  "time": "08092024-210711",
+  "name": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7620.0,
+      "venta": 7680.0,
+      "timestamp": "08092024-210711"
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1350.0,
+      "venta": 1390.0,
+      "timestamp": "08092024-210711"
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 5.4,
+      "venta": 6.6,
+      "timestamp": "08092024-210711"
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8400.0,
+      "venta": 8800.0,
+      "timestamp": "08092024-210711"
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0,
+      "timestamp": "08092024-210711"
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 140.0,
+      "venta": 240.0,
+      "timestamp": "08092024-210711"
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.8,
+      "venta": 3.0,
+      "timestamp": "08092024-210711"
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 300.0,
+      "venta": 450.0,
+      "timestamp": "08092024-210711"
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 180.0,
+      "venta": 1000.0,
+      "timestamp": "08092024-210711"
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0,
+      "timestamp": "08092024-210711"
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0,
+      "timestamp": "08092024-210711"
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3100.0,
+      "venta": 5100.0,
+      "timestamp": "08092024-210711"
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0,
+      "timestamp": "08092024-210711"
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0,
+      "timestamp": "08092024-210711"
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0,
+      "timestamp": "08092024-210711"
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 9200.0,
+      "venta": 10600.0,
+      "timestamp": "08092024-210711"
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6550.0,
+      "venta": 8650.0,
+      "timestamp": "08092024-210711"
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 55.0,
+      "timestamp": "08092024-210711"
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0,
+      "timestamp": "08092024-210711"
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0,
+      "timestamp": "08092024-210711"
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0,
+      "timestamp": "08092024-210711"
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0,
+      "timestamp": "08092024-210711"
+    }
+  ]
+},
+{
+  "time": "08092024-210722",
+  "name": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7620.0,
+      "venta": 7680.0,
+      "timestamp": "08092024-210722"
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1350.0,
+      "venta": 1390.0,
+      "timestamp": "08092024-210722"
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 5.4,
+      "venta": 6.6,
+      "timestamp": "08092024-210722"
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8400.0,
+      "venta": 8800.0,
+      "timestamp": "08092024-210722"
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0,
+      "timestamp": "08092024-210722"
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 140.0,
+      "venta": 240.0,
+      "timestamp": "08092024-210722"
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.8,
+      "venta": 3.0,
+      "timestamp": "08092024-210722"
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 300.0,
+      "venta": 450.0,
+      "timestamp": "08092024-210722"
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 180.0,
+      "venta": 1000.0,
+      "timestamp": "08092024-210722"
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0,
+      "timestamp": "08092024-210722"
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0,
+      "timestamp": "08092024-210722"
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3100.0,
+      "venta": 5100.0,
+      "timestamp": "08092024-210722"
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0,
+      "timestamp": "08092024-210722"
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0,
+      "timestamp": "08092024-210722"
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0,
+      "timestamp": "08092024-210722"
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 9200.0,
+      "venta": 10600.0,
+      "timestamp": "08092024-210722"
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6550.0,
+      "venta": 8650.0,
+      "timestamp": "08092024-210722"
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 55.0,
+      "timestamp": "08092024-210722"
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0,
+      "timestamp": "08092024-210722"
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0,
+      "timestamp": "08092024-210722"
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0,
+      "timestamp": "08092024-210722"
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0,
+      "timestamp": "08092024-210722"
+    }
+  ]
+},
+{
+  "time": "08092024-210735",
+  "name": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7620.0,
+      "venta": 7680.0,
+      "timestamp": "08092024-210735"
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1350.0,
+      "venta": 1390.0,
+      "timestamp": "08092024-210735"
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 5.4,
+      "venta": 6.6,
+      "timestamp": "08092024-210735"
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8400.0,
+      "venta": 8800.0,
+      "timestamp": "08092024-210735"
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0,
+      "timestamp": "08092024-210735"
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 140.0,
+      "venta": 240.0,
+      "timestamp": "08092024-210735"
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.8,
+      "venta": 3.0,
+      "timestamp": "08092024-210735"
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 300.0,
+      "venta": 450.0,
+      "timestamp": "08092024-210735"
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 180.0,
+      "venta": 1000.0,
+      "timestamp": "08092024-210735"
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0,
+      "timestamp": "08092024-210735"
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0,
+      "timestamp": "08092024-210735"
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3100.0,
+      "venta": 5100.0,
+      "timestamp": "08092024-210735"
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0,
+      "timestamp": "08092024-210735"
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0,
+      "timestamp": "08092024-210735"
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0,
+      "timestamp": "08092024-210735"
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 9200.0,
+      "venta": 10600.0,
+      "timestamp": "08092024-210735"
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6550.0,
+      "venta": 8650.0,
+      "timestamp": "08092024-210735"
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 55.0,
+      "timestamp": "08092024-210735"
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0,
+      "timestamp": "08092024-210735"
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0,
+      "timestamp": "08092024-210735"
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0,
+      "timestamp": "08092024-210735"
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0,
+      "timestamp": "08092024-210735"
+    }
+  ]
+},
+{
+  "time": "08092024-211359",
+  "name": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7620.0,
+      "venta": 7680.0,
+      "timestamp": "08092024-211359"
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1350.0,
+      "venta": 1390.0,
+      "timestamp": "08092024-211359"
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 5.4,
+      "venta": 6.6,
+      "timestamp": "08092024-211359"
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8400.0,
+      "venta": 8800.0,
+      "timestamp": "08092024-211359"
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0,
+      "timestamp": "08092024-211359"
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 140.0,
+      "venta": 240.0,
+      "timestamp": "08092024-211359"
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.8,
+      "venta": 3.0,
+      "timestamp": "08092024-211359"
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 300.0,
+      "venta": 450.0,
+      "timestamp": "08092024-211359"
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 180.0,
+      "venta": 1000.0,
+      "timestamp": "08092024-211359"
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0,
+      "timestamp": "08092024-211359"
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0,
+      "timestamp": "08092024-211359"
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3100.0,
+      "venta": 5100.0,
+      "timestamp": "08092024-211359"
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0,
+      "timestamp": "08092024-211359"
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0,
+      "timestamp": "08092024-211359"
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0,
+      "timestamp": "08092024-211359"
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 9200.0,
+      "venta": 10600.0,
+      "timestamp": "08092024-211359"
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6550.0,
+      "venta": 8650.0,
+      "timestamp": "08092024-211359"
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 55.0,
+      "timestamp": "08092024-211359"
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0,
+      "timestamp": "08092024-211359"
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0,
+      "timestamp": "08092024-211359"
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0,
+      "timestamp": "08092024-211359"
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0,
+      "timestamp": "08092024-211359"
+    }
+  ]
+}
