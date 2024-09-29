@@ -6774,4 +6774,280 @@
       "timestamp": "08092024-211359"
     }
   ]
+},
+{
+  "time": "09092024-001019",
+  "name": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7620.0,
+      "venta": 7680.0,
+      "timestamp": "09092024-001019"
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1350.0,
+      "venta": 1390.0,
+      "timestamp": "09092024-001019"
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 5.4,
+      "venta": 6.6,
+      "timestamp": "09092024-001019"
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8400.0,
+      "venta": 8800.0,
+      "timestamp": "09092024-001019"
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 5.0,
+      "venta": 10.0,
+      "timestamp": "09092024-001019"
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 140.0,
+      "venta": 240.0,
+      "timestamp": "09092024-001019"
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.8,
+      "venta": 3.0,
+      "timestamp": "09092024-001019"
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 300.0,
+      "venta": 450.0,
+      "timestamp": "09092024-001019"
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 180.0,
+      "venta": 1000.0,
+      "timestamp": "09092024-001019"
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2100.0,
+      "timestamp": "09092024-001019"
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5550.0,
+      "timestamp": "09092024-001019"
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3100.0,
+      "venta": 5100.0,
+      "timestamp": "09092024-001019"
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 700.0,
+      "timestamp": "09092024-001019"
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 900.0,
+      "timestamp": "09092024-001019"
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 650.0,
+      "timestamp": "09092024-001019"
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 9200.0,
+      "venta": 10600.0,
+      "timestamp": "09092024-001019"
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6550.0,
+      "venta": 8650.0,
+      "timestamp": "09092024-001019"
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 35.0,
+      "venta": 55.0,
+      "timestamp": "09092024-001019"
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 19950.0,
+      "timestamp": "09092024-001019"
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2000.0,
+      "timestamp": "09092024-001019"
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 430.0,
+      "timestamp": "09092024-001019"
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 90.0,
+      "timestamp": "09092024-001019"
+    }
+  ]
+},
+{
+  "time": "29092024-151939",
+  "name": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7680.0,
+      "venta": 7730.0,
+      "timestamp": "29092024-151939"
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1400.0,
+      "venta": 1450.0,
+      "timestamp": "29092024-151939"
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.0,
+      "venta": 7.0,
+      "timestamp": "29092024-151939"
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8500.0,
+      "venta": 8850.0,
+      "timestamp": "29092024-151939"
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 7.0,
+      "venta": 11.0,
+      "timestamp": "29092024-151939"
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 140.0,
+      "venta": 250.0,
+      "timestamp": "29092024-151939"
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.8,
+      "venta": 3.5,
+      "timestamp": "29092024-151939"
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 300.0,
+      "venta": 470.0,
+      "timestamp": "29092024-151939"
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 180.0,
+      "venta": 1050.0,
+      "timestamp": "29092024-151939"
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2200.0,
+      "timestamp": "29092024-151939"
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5800.0,
+      "timestamp": "29092024-151939"
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3100.0,
+      "venta": 5300.0,
+      "timestamp": "29092024-151939"
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 730.0,
+      "timestamp": "29092024-151939"
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 940.0,
+      "timestamp": "29092024-151939"
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 680.0,
+      "timestamp": "29092024-151939"
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 9300.0,
+      "venta": 11000.0,
+      "timestamp": "29092024-151939"
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6550.0,
+      "venta": 9000.0,
+      "timestamp": "29092024-151939"
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 48.0,
+      "venta": 60.0,
+      "timestamp": "29092024-151939"
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 20500.0,
+      "timestamp": "29092024-151939"
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2100.0,
+      "timestamp": "29092024-151939"
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 450.0,
+      "timestamp": "29092024-151939"
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 95.0,
+      "timestamp": "29092024-151939"
+    }
+  ]
 }

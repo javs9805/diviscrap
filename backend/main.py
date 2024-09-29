@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from maxicambios import getMaxicambios
-from cambioschaco import getCambiosChaco
+from casas.maxicambios import getMaxicambios
+from casas.cambioschaco import getCambiosChaco
 import json
 app = FastAPI()
 
