@@ -1,5 +1,5 @@
 from urllib.request import urlopen
-from moneda import Moneda
+from casas.moneda import Moneda
 import json
 from datetime import datetime
 
