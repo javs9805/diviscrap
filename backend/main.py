@@ -2,6 +2,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from casas.maxicambios import getMaxicambios
 from casas.cambioschaco import getCambiosChaco
+from casas.cambiosAlberdi import getCambiosAlberdi
 import json
 app = FastAPI()
 
@@ -30,3 +31,7 @@ async def getCasaMaxiCambios():
 @app.get("/casa/cambioschaco/")
 async def getCasaCambiosChaco():
     return json.loads(getCambiosChaco())
+
+@app.get("/casa/cambiosalberdi/")
+async def getCasaCambiosAlberdi():
+    return json.loads(getCambiosAlberdi())

@@ -1,14 +1,15 @@
 from urllib.request import urlopen
-from casas.moneda import Moneda
+from moneda import Moneda
 import re
 import json
 from datetime import datetime
+import os
 
 url = "https://www.maxicambios.com.py/"
 casaCambio = "Maxicambios"
 
 def guardarTexto(str):
-    f = open(f"sources/prueba{casaCambio.replace(' ','')}.txt","w")
+    f = open(f"./sources/prueba{casaCambio.replace(' ','')}.txt","w+")
     f.write(str)
 
 def openUrlAndGetDecodedHtml(url):
@@ -36,7 +37,8 @@ def setCleanCurrencies(cuerpo_tabla):
     return monedas
 
 def getCurrenciesAndLog(monedas):
-    f = open("../sources/maxicambios.txt","a")
+    path = os.getcwd()
+    f = open(f"{path}\casas\sources\cambiosAlberdi.txt","a")
     now = datetime.now()
     current_time = now.strftime("%d%m%Y-%H%M%S")
     print("Current Time =", current_time)

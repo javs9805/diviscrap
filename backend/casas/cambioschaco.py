@@ -3,7 +3,7 @@ from casas.moneda import Moneda
 import re
 import json
 from datetime import datetime
-
+import os
 
 url = "https://www.cambioschaco.com.py/"
 casaCambio = "Cambios Chaco"
@@ -46,7 +46,8 @@ def setCleanCurrencies(cuerpo_tabla):
     return monedas
 
 def getCurrenciesAndLog(monedas):
-    f = open("../sources/cambiosChaco.txt","a")
+    path = os.getcwd()
+    f = open(f"{path}\casas\sources\cambiosAlberdi.txt","a")
     now = datetime.now()
     current_time = now.strftime("%d%m%Y-%H%M%S")
     print("Current Time =", current_time)

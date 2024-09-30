@@ -1,0 +1,667 @@
+,
+{
+  "time": "30092024-183532",
+  "name": "cambios Alberdi",
+  "currency": [
+    {
+      "nombre": "dolar_estadounidense",
+      "compra": 7.695,
+      "venta": 7.735,
+      "timestamp": "30092024-183532"
+    },
+    {
+      "nombre": "real_brasileno",
+      "compra": 1.39,
+      "venta": 1.425,
+      "timestamp": "30092024-183532"
+    },
+    {
+      "nombre": "euro",
+      "compra": 8.5,
+      "venta": 8.82,
+      "timestamp": "30092024-183532"
+    },
+    {
+      "nombre": "peso_argentino",
+      "compra": 6.0,
+      "venta": 6.3,
+      "timestamp": "30092024-183532"
+    },
+    {
+      "nombre": "dolar_cheque",
+      "compra": 7.76,
+      "venta": 7.81,
+      "timestamp": "30092024-183532"
+    },
+    {
+      "nombre": "yen_japones",
+      "compra": 48.0,
+      "venta": 56.0,
+      "timestamp": "30092024-183532"
+    },
+    {
+      "nombre": "libra_esterlina",
+      "compra": 9.29,
+      "venta": 10.67,
+      "timestamp": "30092024-183532"
+    },
+    {
+      "nombre": "dolar_canadiense",
+      "compra": 4.85,
+      "venta": 5.73,
+      "timestamp": "30092024-183532"
+    },
+    {
+      "nombre": "peso_chileno",
+      "compra": 7.0,
+      "venta": 9.0,
+      "timestamp": "30092024-183532"
+    },
+    {
+      "nombre": "peso_uruguayo",
+      "compra": 160.0,
+      "venta": 210.0,
+      "timestamp": "30092024-183532"
+    },
+    {
+      "nombre": "franco_suizo",
+      "compra": 7.77,
+      "venta": 9.17,
+      "timestamp": "30092024-183532"
+    },
+    {
+      "nombre": "dolar_australiano",
+      "compra": 0.0,
+      "venta": 0.0,
+      "timestamp": "30092024-183532"
+    }
+  ]
+},
+{
+  "time": "30092024-183532",
+  "name": "cambios Alberdi",
+  "currency": [
+    {
+      "nombre": "dolar_estadounidense",
+      "compra": 7.695,
+      "venta": 7.735,
+      "timestamp": "30092024-183532"
+    },
+    {
+      "nombre": "real_brasileno",
+      "compra": 1.39,
+      "venta": 1.425,
+      "timestamp": "30092024-183532"
+    },
+    {
+      "nombre": "euro",
+      "compra": 8.5,
+      "venta": 8.82,
+      "timestamp": "30092024-183532"
+    },
+    {
+      "nombre": "peso_argentino",
+      "compra": 6.0,
+      "venta": 6.3,
+      "timestamp": "30092024-183532"
+    },
+    {
+      "nombre": "dolar_cheque",
+      "compra": 7.76,
+      "venta": 7.81,
+      "timestamp": "30092024-183532"
+    },
+    {
+      "nombre": "yen_japones",
+      "compra": 48.0,
+      "venta": 56.0,
+      "timestamp": "30092024-183532"
+    },
+    {
+      "nombre": "libra_esterlina",
+      "compra": 9.29,
+      "venta": 10.67,
+      "timestamp": "30092024-183532"
+    },
+    {
+      "nombre": "dolar_canadiense",
+      "compra": 4.85,
+      "venta": 5.73,
+      "timestamp": "30092024-183532"
+    },
+    {
+      "nombre": "peso_chileno",
+      "compra": 7.0,
+      "venta": 9.0,
+      "timestamp": "30092024-183532"
+    },
+    {
+      "nombre": "peso_uruguayo",
+      "compra": 160.0,
+      "venta": 210.0,
+      "timestamp": "30092024-183532"
+    },
+    {
+      "nombre": "franco_suizo",
+      "compra": 7.77,
+      "venta": 9.17,
+      "timestamp": "30092024-183532"
+    },
+    {
+      "nombre": "dolar_australiano",
+      "compra": 0.0,
+      "venta": 0.0,
+      "timestamp": "30092024-183532"
+    }
+  ]
+},
+{
+  "time": "30092024-183651",
+  "name": "cambios Alberdi",
+  "currency": [
+    {
+      "nombre": "dolar_estadounidense",
+      "compra": 7.695,
+      "venta": 7.735,
+      "timestamp": "30092024-183651"
+    },
+    {
+      "nombre": "real_brasileno",
+      "compra": 1.39,
+      "venta": 1.425,
+      "timestamp": "30092024-183651"
+    },
+    {
+      "nombre": "euro",
+      "compra": 8.5,
+      "venta": 8.82,
+      "timestamp": "30092024-183651"
+    },
+    {
+      "nombre": "peso_argentino",
+      "compra": 6.0,
+      "venta": 6.3,
+      "timestamp": "30092024-183651"
+    },
+    {
+      "nombre": "dolar_cheque",
+      "compra": 7.76,
+      "venta": 7.81,
+      "timestamp": "30092024-183651"
+    },
+    {
+      "nombre": "yen_japones",
+      "compra": 48.0,
+      "venta": 56.0,
+      "timestamp": "30092024-183651"
+    },
+    {
+      "nombre": "libra_esterlina",
+      "compra": 9.29,
+      "venta": 10.67,
+      "timestamp": "30092024-183651"
+    },
+    {
+      "nombre": "dolar_canadiense",
+      "compra": 4.85,
+      "venta": 5.73,
+      "timestamp": "30092024-183651"
+    },
+    {
+      "nombre": "peso_chileno",
+      "compra": 7.0,
+      "venta": 9.0,
+      "timestamp": "30092024-183651"
+    },
+    {
+      "nombre": "peso_uruguayo",
+      "compra": 160.0,
+      "venta": 210.0,
+      "timestamp": "30092024-183651"
+    },
+    {
+      "nombre": "franco_suizo",
+      "compra": 7.77,
+      "venta": 9.17,
+      "timestamp": "30092024-183651"
+    },
+    {
+      "nombre": "dolar_australiano",
+      "compra": 0.0,
+      "venta": 0.0,
+      "timestamp": "30092024-183651"
+    }
+  ]
+},
+{
+  "time": "30092024-183739",
+  "name": "cambios Alberdi",
+  "currency": [
+    {
+      "nombre": "dolar_estadounidense",
+      "compra": 7.695,
+      "venta": 7.735,
+      "timestamp": "30092024-183739"
+    },
+    {
+      "nombre": "real_brasileno",
+      "compra": 1.39,
+      "venta": 1.425,
+      "timestamp": "30092024-183739"
+    },
+    {
+      "nombre": "euro",
+      "compra": 8.5,
+      "venta": 8.82,
+      "timestamp": "30092024-183739"
+    },
+    {
+      "nombre": "peso_argentino",
+      "compra": 6.0,
+      "venta": 6.3,
+      "timestamp": "30092024-183739"
+    },
+    {
+      "nombre": "dolar_cheque",
+      "compra": 7.76,
+      "venta": 7.81,
+      "timestamp": "30092024-183739"
+    },
+    {
+      "nombre": "yen_japones",
+      "compra": 48.0,
+      "venta": 56.0,
+      "timestamp": "30092024-183739"
+    },
+    {
+      "nombre": "libra_esterlina",
+      "compra": 9.29,
+      "venta": 10.67,
+      "timestamp": "30092024-183739"
+    },
+    {
+      "nombre": "dolar_canadiense",
+      "compra": 4.85,
+      "venta": 5.73,
+      "timestamp": "30092024-183739"
+    },
+    {
+      "nombre": "peso_chileno",
+      "compra": 7.0,
+      "venta": 9.0,
+      "timestamp": "30092024-183739"
+    },
+    {
+      "nombre": "peso_uruguayo",
+      "compra": 160.0,
+      "venta": 210.0,
+      "timestamp": "30092024-183739"
+    },
+    {
+      "nombre": "franco_suizo",
+      "compra": 7.77,
+      "venta": 9.17,
+      "timestamp": "30092024-183739"
+    },
+    {
+      "nombre": "dolar_australiano",
+      "compra": 0.0,
+      "venta": 0.0,
+      "timestamp": "30092024-183739"
+    }
+  ]
+},
+{
+  "time": "30092024-183754",
+  "name": "cambios Alberdi",
+  "currency": [
+    {
+      "nombre": "dolar_estadounidense",
+      "compra": 7.695,
+      "venta": 7.735,
+      "timestamp": "30092024-183754"
+    },
+    {
+      "nombre": "real_brasileno",
+      "compra": 1.39,
+      "venta": 1.425,
+      "timestamp": "30092024-183754"
+    },
+    {
+      "nombre": "euro",
+      "compra": 8.5,
+      "venta": 8.82,
+      "timestamp": "30092024-183754"
+    },
+    {
+      "nombre": "peso_argentino",
+      "compra": 6.0,
+      "venta": 6.3,
+      "timestamp": "30092024-183754"
+    },
+    {
+      "nombre": "dolar_cheque",
+      "compra": 7.76,
+      "venta": 7.81,
+      "timestamp": "30092024-183754"
+    },
+    {
+      "nombre": "yen_japones",
+      "compra": 48.0,
+      "venta": 56.0,
+      "timestamp": "30092024-183754"
+    },
+    {
+      "nombre": "libra_esterlina",
+      "compra": 9.29,
+      "venta": 10.67,
+      "timestamp": "30092024-183754"
+    },
+    {
+      "nombre": "dolar_canadiense",
+      "compra": 4.85,
+      "venta": 5.73,
+      "timestamp": "30092024-183754"
+    },
+    {
+      "nombre": "peso_chileno",
+      "compra": 7.0,
+      "venta": 9.0,
+      "timestamp": "30092024-183754"
+    },
+    {
+      "nombre": "peso_uruguayo",
+      "compra": 160.0,
+      "venta": 210.0,
+      "timestamp": "30092024-183754"
+    },
+    {
+      "nombre": "franco_suizo",
+      "compra": 7.77,
+      "venta": 9.17,
+      "timestamp": "30092024-183754"
+    },
+    {
+      "nombre": "dolar_australiano",
+      "compra": 0.0,
+      "venta": 0.0,
+      "timestamp": "30092024-183754"
+    }
+  ]
+},
+{
+  "time": "30092024-183803",
+  "name": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7680.0,
+      "venta": 7730.0,
+      "timestamp": "30092024-183803"
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1400.0,
+      "venta": 1450.0,
+      "timestamp": "30092024-183803"
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.0,
+      "venta": 7.0,
+      "timestamp": "30092024-183803"
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8500.0,
+      "venta": 8850.0,
+      "timestamp": "30092024-183803"
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 7.0,
+      "venta": 11.0,
+      "timestamp": "30092024-183803"
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 140.0,
+      "venta": 250.0,
+      "timestamp": "30092024-183803"
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.8,
+      "venta": 3.5,
+      "timestamp": "30092024-183803"
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 300.0,
+      "venta": 470.0,
+      "timestamp": "30092024-183803"
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 180.0,
+      "venta": 1050.0,
+      "timestamp": "30092024-183803"
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2200.0,
+      "timestamp": "30092024-183803"
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5800.0,
+      "timestamp": "30092024-183803"
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3100.0,
+      "venta": 5300.0,
+      "timestamp": "30092024-183803"
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 730.0,
+      "timestamp": "30092024-183803"
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 940.0,
+      "timestamp": "30092024-183803"
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 680.0,
+      "timestamp": "30092024-183803"
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 9300.0,
+      "venta": 11000.0,
+      "timestamp": "30092024-183803"
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6550.0,
+      "venta": 9000.0,
+      "timestamp": "30092024-183803"
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 48.0,
+      "venta": 60.0,
+      "timestamp": "30092024-183803"
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 20500.0,
+      "timestamp": "30092024-183803"
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2100.0,
+      "timestamp": "30092024-183803"
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 450.0,
+      "timestamp": "30092024-183803"
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 95.0,
+      "timestamp": "30092024-183803"
+    }
+  ]
+},
+{
+  "time": "30092024-183813",
+  "name": "Cambios Chaco",
+  "currency": [
+    {
+      "nombre": "US Dollar",
+      "compra": 7680.0,
+      "venta": 7730.0,
+      "timestamp": "30092024-183813"
+    },
+    {
+      "nombre": "Brazilian Real",
+      "compra": 1400.0,
+      "venta": 1450.0,
+      "timestamp": "30092024-183813"
+    },
+    {
+      "nombre": "Argentine Peso",
+      "compra": 6.0,
+      "venta": 7.0,
+      "timestamp": "30092024-183813"
+    },
+    {
+      "nombre": "Euro",
+      "compra": 8500.0,
+      "venta": 8850.0,
+      "timestamp": "30092024-183813"
+    },
+    {
+      "nombre": "Chilean Peso",
+      "compra": 7.0,
+      "venta": 11.0,
+      "timestamp": "30092024-183813"
+    },
+    {
+      "nombre": "Uruguayan Peso",
+      "compra": 140.0,
+      "venta": 250.0,
+      "timestamp": "30092024-183813"
+    },
+    {
+      "nombre": "Colombian Peso",
+      "compra": 1.8,
+      "venta": 3.5,
+      "timestamp": "30092024-183813"
+    },
+    {
+      "nombre": "Mexican Peso",
+      "compra": 300.0,
+      "venta": 470.0,
+      "timestamp": "30092024-183813"
+    },
+    {
+      "nombre": "Bolivian Boliviano",
+      "compra": 180.0,
+      "venta": 1050.0,
+      "timestamp": "30092024-183813"
+    },
+    {
+      "nombre": "Peruvian Nuevo Sol",
+      "compra": 1500.0,
+      "venta": 2200.0,
+      "timestamp": "30092024-183813"
+    },
+    {
+      "nombre": "Canadian Dollar",
+      "compra": 4000.0,
+      "venta": 5800.0,
+      "timestamp": "30092024-183813"
+    },
+    {
+      "nombre": "Australian Dollar",
+      "compra": 3100.0,
+      "venta": 5300.0,
+      "timestamp": "30092024-183813"
+    },
+    {
+      "nombre": "Norwegian Krone",
+      "compra": 350.0,
+      "venta": 730.0,
+      "timestamp": "30092024-183813"
+    },
+    {
+      "nombre": "Danish Krone",
+      "compra": 400.0,
+      "venta": 940.0,
+      "timestamp": "30092024-183813"
+    },
+    {
+      "nombre": "Swedish Krona",
+      "compra": 300.0,
+      "venta": 680.0,
+      "timestamp": "30092024-183813"
+    },
+    {
+      "nombre": "British Pound Sterling",
+      "compra": 9300.0,
+      "venta": 11000.0,
+      "timestamp": "30092024-183813"
+    },
+    {
+      "nombre": "Swiss Franc",
+      "compra": 6550.0,
+      "venta": 9000.0,
+      "timestamp": "30092024-183813"
+    },
+    {
+      "nombre": "Japanese Yen",
+      "compra": 48.0,
+      "venta": 60.0,
+      "timestamp": "30092024-183813"
+    },
+    {
+      "nombre": "Kuwaiti Dinar",
+      "compra": 0.0,
+      "venta": 20500.0,
+      "timestamp": "30092024-183813"
+    },
+    {
+      "nombre": "Israeli New Sheqel",
+      "compra": 1250.0,
+      "venta": 2100.0,
+      "timestamp": "30092024-183813"
+    },
+    {
+      "nombre": "South African Rand",
+      "compra": 250.0,
+      "venta": 450.0,
+      "timestamp": "30092024-183813"
+    },
+    {
+      "nombre": "Russian Ruble",
+      "compra": 20.0,
+      "venta": 95.0,
+      "timestamp": "30092024-183813"
+    }
+  ]
+}
