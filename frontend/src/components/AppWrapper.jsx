@@ -13,6 +13,7 @@ const AppWrapper = () => {
             <Route path="/" element={<Home />} />
             <Route path="/maxicambios"element={<Divisas casa="maxicambios" />} />
             <Route path="/cambioschaco"element={<Divisas casa="cambioschaco" />} />
+            <Route path="/cambiosalberdi"element={<Divisas casa="cambioschaco" />} />
         </Routes>
     </Router>
   );

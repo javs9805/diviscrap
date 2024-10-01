@@ -5,13 +5,10 @@ import { Heading, Button, ButtonGroup, Card, CardBody, CardFooter, Container, Di
 const Home = () => {
   const navigate = useNavigate();
 
-  const cambiosChacoHandler = () => {
-    navigate('/cambiosChaco');
+  const nvgtHandler = (e) => {
+    navigate(`/${e.target.dataset.nvgtValue}`);
   }
 
-  const maxicambiosHandler = () => {
-    navigate('/maxicambios');
-  }
   return (
     <Container maxW="container.md" className="mt-3">
       <Grid templateColumns='repeat(2, 1fr)' gap={6}>
@@ -36,7 +33,7 @@ const Home = () => {
             <Divider />
             <CardFooter>
               <ButtonGroup spacing='2'>
-                <Button variant='solid' colorScheme='blue' onClick={maxicambiosHandler}>
+                <Button variant='solid' colorScheme='blue' data-nvgt-value="maxicambios" onClick={nvgtHandler}>
                   Visitar
                 </Button>
               </ButtonGroup>
@@ -64,7 +61,35 @@ const Home = () => {
             <Divider />
             <CardFooter>
               <ButtonGroup spacing='2'>
-                <Button variant='solid' colorScheme='blue' onClick={cambiosChacoHandler}>
+                <Button variant='solid' colorScheme='blue' data-nvgt-value="cambioschaco" onClick={nvgtHandler}>
+                  Visitar
+                </Button>
+              </ButtonGroup>
+            </CardFooter>
+          </Card>
+        </GridItem>
+
+        <GridItem>
+          <Card maxW='sm' bg={useColorModeValue("gray.200","black.200")}>
+            <CardBody>
+              <Image
+                src='https://www.cambiosalberdi.com/assets/img/logo/logo_menu-white.png'
+                alt='Cambios Alberdi'
+                borderRadius='lg'
+                bg={useColorModeValue("white","white")}
+                py='2rem'
+              />
+              <Stack mt='6' spacing='3'>
+                <Heading size='md'>Cambios chaco</Heading>
+                <Text>
+                  
+                </Text>
+              </Stack>
+            </CardBody>
+            <Divider />
+            <CardFooter>
+              <ButtonGroup spacing='2'>
+                <Button variant='solid' colorScheme='blue' data-nvgt-value="cambiosalberdi" onClick={nvgtHandler}>
                   Visitar
                 </Button>
               </ButtonGroup>

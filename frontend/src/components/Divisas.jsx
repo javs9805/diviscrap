@@ -11,7 +11,7 @@ import {
 } from '@chakra-ui/react'
 import { Divider } from '@chakra-ui/react'
 
-
+const backendUrl = process.env.REACT_APP_BACKEND_URL;
 const DivisasContext = React.createContext({
   divisas: [], 
   fetchDivisas: () => { }
@@ -26,7 +26,7 @@ export default function Divisa(props) {
   const [nombreCasaCambio, setnombreCasaCambio] = useState([])
   const fetchDivisas = async () => {
     const endpoint = props.casa;
-    const response = await fetch(`http://localhost:8000/casa/${endpoint}/`)
+    const response = await fetch(`${backendUrl}/casa/${endpoint}/`)
     const divisas = await response.json()
     console.table(divisas);
     setDivisas(divisas.currency)
