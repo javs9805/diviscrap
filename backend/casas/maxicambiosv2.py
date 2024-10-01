@@ -37,15 +37,14 @@ def setCleanCurrencies(cuerpo_tabla):
     return monedas
 
 def getCurrenciesAndLog(monedas):
-    path = os.getcwd()
-    f = open(f"{path}\casas\sources\cambiosAlberdi.txt","a")
+#    path = os.getcwd()
+#    f = open(f"{path}\casas\sources\cambiosAlberdi.txt","a")
     now = datetime.now()
     current_time = now.strftime("%d%m%Y-%H%M%S")
     print("Current Time =", current_time)
     jsonMonedas = json.dumps({"time":current_time,"name":"Maxicambios","currency":[moneda.to_dict() for moneda in monedas]}, indent = 2)
-    f.write(",\n")
-    f.write(jsonMonedas)
-    return jsonMonedas
+#    f.write(",\n") 
+    return json
 
 def getMaxicambios():
     html = openUrlAndGetDecodedHtml(url)
