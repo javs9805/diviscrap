@@ -15,6 +15,7 @@ origins = [
     "diviscrap-git-main-javs9805s-projects.vercel.app/",
     "diviscrap-h822dz1yi-javs9805s-projects.vercel.app/",
     "diviscrap.vercel.app/",
+    "https://diviscrap-git-main-javs9805s-projects.vercel.app",
     
 ]
 
