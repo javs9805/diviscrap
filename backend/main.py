@@ -9,12 +9,7 @@ app = FastAPI()
 origins = [
     "http://localhost:3000",
     "localhost:3000",
-    "https://diviscrap-git-main-javs9805s-projects.vercel.app",
-    "https://diviscrap-h822dz1yi-javs9805s-projects.vercel.app",
     "https://diviscrap.vercel.app",
-    "diviscrap-git-main-javs9805s-projects.vercel.app/",
-    "diviscrap-h822dz1yi-javs9805s-projects.vercel.app/",
-    "diviscrap.vercel.app/",
     "https://diviscrap-git-main-javs9805s-projects.vercel.app",
     
 ]
@@ -22,7 +17,7 @@ origins = [
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=origins,
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"]
