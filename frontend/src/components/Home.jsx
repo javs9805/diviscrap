@@ -13,7 +13,7 @@ const Home = () => {
     {'head':'Maxicambios',
       'src':'https://www.maxicambios.com.py/themes/default/assets/images/about-us-mobile.png',
       'text':'Maxicambios inició sus actividades en el mercado de cambios del Paraguay el 16 de mayo de 2003, bajo la razón social de MAXICAMBIOS S.A.',
-      'nvgt':''
+      'nvgt':'maxicambios'
     },
     {'head':'Cambios Chaco',
       'src':'https://www.cambioschaco.com.py/wp-content/themes/cambioschaco/images/logo.png',
@@ -23,7 +23,7 @@ const Home = () => {
     {'head':'Cambios Alberdi',
       'src':'https://www.cambiosalberdi.com/assets/img/logo/logo_menu-white.png',
       'text':'Mariscal Lopez Nro 4217 C/Capitan Dimas Motta - Asunción',
-      'nvgt':''
+      'nvgt':'cambiosalberdi'
     },
 //    {'head':'',
 //      'src':'',
