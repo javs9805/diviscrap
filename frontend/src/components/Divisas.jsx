@@ -25,7 +25,6 @@ export default function Divisa(props) {
   const [divisas, setDivisas] = useState([])
   const [nombreCasaCambio, setnombreCasaCambio] = useState([])
   const fetchDivisas = async () => {
-    alert(backendUrl)
     const endpoint = props.casa;
     const response = await fetch(`${backendUrl}/casa/${endpoint}/`)
     const divisas = await response.json()
